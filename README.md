@@ -1,16 +1,16 @@
-Author: James,
+Author: NieYuhua,
 
-Email: xxx@gmail.com
+Email: nieyuhua0115@foxmail.com
 
 Current Affiliation: UESTC
 
-Future Affiliation:  Google Company/ Stanford University
+Future Affiliation:  University of Washington, Seattle
 
 supervisor: Jin Qi
 
-Date: 5/26/2022
+Date: 5/31/2022
 
-note: this work was done while I pursued my bachelor/master degree in Jin Qi's AIML Lab in UESTC
+note: this work was done while I pursued my bachelor degree in Jin Qi's AIML Lab in UESTC
 
 # streamlit-fastapi-model-serving
 
